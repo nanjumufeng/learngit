@@ -1,4 +1,5 @@
 Git is a version control system.
 Git is free software.
 Git is good.
-Creating a new brance is quick & simple.
+Creating a new branch is quick AND simple.
+
